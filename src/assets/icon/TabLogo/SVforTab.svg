@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="136.45398437499995" height="87.33000000000001" xml:space="preserve">
+<desc>Created with Fabric.js 1.6.0-rc.1</desc>
+<defs></defs>
+  <g transform="translate(81.69 39.12) scale(1.09 1.09)">
+   <text font-family="Chunky" font-size="40" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #113ff7; fill-rule: nonzero; opacity: 1;" ><tspan x="-15.42" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #113ff7; fill-rule: ; opacity: 1;">s</tspan></text>
+ </g>
+  <g transform="translate(113.14 45.38) scale(1.28 1.11)">
+   <text font-family="Gilgongo Tiki" font-size="40" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #1228e8; fill-rule: nonzero; opacity: 1;" ><tspan x="-10.9" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #1228e8; fill-rule: ; opacity: 1;">v</tspan></text>
+ </g>
+<g style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(10 12.930000000000003) rotate(351) scale(0.14 0.14)" >
+  <polygon points="0,229.5 229.5,229.5 229.5,459 255,459 459,0 0,204 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #eb0909; fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+</g>
+</svg>

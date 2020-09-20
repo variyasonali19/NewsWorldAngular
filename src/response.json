@@ -1,0 +1,1281 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company. All Rights Reserved.",
+  "section": "politics",
+  "last_updated": "2019-04-06T00:47:19-04:00",
+  "num_results": 17,
+  "results": [
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Trump Lawyer Asserts President\u2019s Right to Keep Tax Returns Private",
+      "abstract": "The lawyer\u2019s argument foreshadows a likely and far-reaching legal fight over President Trump\u2019s tax returns that could wind up in the Supreme Court.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/trump-tax-returns.html",
+      "byline": "By NICHOLAS FANDOS and MAGGIE HABERMAN",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T20:36:48-04:00",
+      "created_date": "2019-04-05T17:04:14-04:00",
+      "published_date": "2019-04-05T17:04:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Federal Taxes (US)",
+        "Ethics and Official Misconduct"
+      ],
+      "org_facet": ["House Committee on Ways and Means"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-taxreturns/05dc-taxreturns-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Congress requested six years of President Trump\u2019s tax returns from the I.R.S.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-taxreturns/05dc-taxreturns-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Congress requested six years of President Trump\u2019s tax returns from the I.R.S.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-taxreturns/merlin_153109521_0c4a7c82-1092-4db7-b546-88c27db923c4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Congress requested six years of President Trump\u2019s tax returns from the I.R.S.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-taxreturns/merlin_153109521_0c4a7c82-1092-4db7-b546-88c27db923c4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Congress requested six years of President Trump\u2019s tax returns from the I.R.S.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-taxreturns/merlin_153109521_0c4a7c82-1092-4db7-b546-88c27db923c4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Congress requested six years of President Trump\u2019s tax returns from the I.R.S.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2uNaVTB"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Guant\u00e1namo Trials Grapple With How Much Evidence to Allow About Torture",
+      "abstract": "The military tribunals originally barred public mention of what happened at C.I.A. prisons. Now a key question is what evidence terrorism suspects can use as the cases inch forward.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/guantanamo-trials-torture.html",
+      "byline": "By CAROL ROSENBERG",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T15:41:20-04:00",
+      "created_date": "2019-04-05T12:26:48-04:00",
+      "published_date": "2019-04-05T12:26:48-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Military Tribunals",
+        "Interrogations",
+        "Detainees",
+        "September 11 (2001)",
+        "Torture"
+      ],
+      "org_facet": ["Al Qaeda", "Central Intelligence Agency"],
+      "per_facet": ["Mohammed, Khalid Shaikh", "Bush, George W"],
+      "geo_facet": ["Guantanamo Bay Naval Base (Cuba)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-torture2/merlin_90260443_25a17ddf-6db4-42e4-a1a1-ca620d7e9ab8-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The National Registry Office for Classified Information in Bucharest, Romania, was reportedly used as a secret C.I.A. prison from 2003 to 2006.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-torture2/merlin_90260443_25a17ddf-6db4-42e4-a1a1-ca620d7e9ab8-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The National Registry Office for Classified Information in Bucharest, Romania, was reportedly used as a secret C.I.A. prison from 2003 to 2006.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-torture2/merlin_90260443_25a17ddf-6db4-42e4-a1a1-ca620d7e9ab8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The National Registry Office for Classified Information in Bucharest, Romania, was reportedly used as a secret C.I.A. prison from 2003 to 2006.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-torture2/merlin_90260443_25a17ddf-6db4-42e4-a1a1-ca620d7e9ab8-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The National Registry Office for Classified Information in Bucharest, Romania, was reportedly used as a secret C.I.A. prison from 2003 to 2006.",
+          "copyright": "Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-torture2/merlin_90260443_25a17ddf-6db4-42e4-a1a1-ca620d7e9ab8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The National Registry Office for Classified Information in Bucharest, Romania, was reportedly used as a secret C.I.A. prison from 2003 to 2006.",
+          "copyright": "Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2D0nOhD"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Waiting for Asylum in the United States, Migrants Live in Fear in Mexico",
+      "abstract": "Hundreds of Central American migrants who are seeking asylum in the United States could soon be sent to wait in Mexico under a policy that has been expanded by the Trump administration.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/asylum-united-states-migrants-mexico.html",
+      "byline": "By ZOLAN KANNO-YOUNGS and MAYA AVERBUCH",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T13:38:22-04:00",
+      "created_date": "2019-04-05T13:38:22-04:00",
+      "published_date": "2019-04-05T13:38:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Immigration and Emigration",
+        "Asylum, Right of",
+        "Border Barriers",
+        "Gangs",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Homeland Security Department"],
+      "per_facet": ["Nielsen, Kirstjen"],
+      "geo_facet": ["Tijuana (Mexico)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-immig-promo/05dc-immig-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s a lot of people throwing themselves over the wall, and we\u2019re doing this the fair way,\u201d said Daniela Diaz.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-immig-promo/05dc-immig-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s a lot of people throwing themselves over the wall, and we\u2019re doing this the fair way,\u201d said Daniela Diaz.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-immig-promo/merlin_152919483_7846f431-c772-4f9f-9f46-b71a99b1cd57-articleInline.jpg",
+          "format": "Normal",
+          "height": 152,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s a lot of people throwing themselves over the wall, and we\u2019re doing this the fair way,\u201d said Daniela Diaz.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-immig-promo/05dc-immig-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s a lot of people throwing themselves over the wall, and we\u2019re doing this the fair way,\u201d said Daniela Diaz.",
+          "copyright": "John Francis Peters for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-immig-promo/merlin_152919483_7846f431-c772-4f9f-9f46-b71a99b1cd57-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1637,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cThere\u2019s a lot of people throwing themselves over the wall, and we\u2019re doing this the fair way,\u201d said Daniela Diaz.",
+          "copyright": "John Francis Peters for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VqH0My"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Joe Biden Jokes About Hugging in a Speech, Then Offers a Mixed Apology",
+      "abstract": "\u201cI\u2019m sorry I didn\u2019t understand more,\u201d Mr. Biden said about his hugs and kisses to women over the years. \u201cI\u2019m not sorry for any of my intentions.\u201d",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/joe-biden-controversy.html",
+      "byline": "By LISA LERER",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T19:33:58-04:00",
+      "created_date": "2019-04-05T10:53:15-04:00",
+      "published_date": "2019-04-05T10:53:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Violence Against Women Act (1994)",
+        "Women and Girls",
+        "Speeches and Statements"
+      ],
+      "org_facet": ["International Brotherhood of Electrical Workers"],
+      "per_facet": ["Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2VnVnkN"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "New U.S. Sanctions Seek to Block Venezuelan Oil Shipments to Cuba",
+      "abstract": "The sanctions, senior administration officials said, could force a \u201crecalibration\u201d of Venezuela\u2019s relationship with Cuba, which has been defending the government of President Nicol\u00e1s Maduro.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/trump-sanctions-venezuela-cuba.html",
+      "byline": "By ANNIE KARNI and NICHOLAS CASEY",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T21:21:59-04:00",
+      "created_date": "2019-04-05T20:45:32-04:00",
+      "published_date": "2019-04-05T20:45:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States International Relations",
+        "Embargoes and Sanctions",
+        "Oil (Petroleum) and Gasoline"
+      ],
+      "org_facet": ["PDVSA"],
+      "per_facet": [
+        "Guaido, Juan",
+        "Maduro, Nicolas",
+        "Pence, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": ["Caracas (Venezuela)", "Cuba"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-sanctions/05dc-sanctions-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fisherman casts his net as an oil tanker sails in Venezuela. \u201cVenezuela\u2019s oil belongs to the Venezuelan people,\u201d Vice President Mike Pence said, announcing sanctions.",
+          "copyright": "Juan Barreto/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-sanctions/05dc-sanctions-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fisherman casts his net as an oil tanker sails in Venezuela. \u201cVenezuela\u2019s oil belongs to the Venezuelan people,\u201d Vice President Mike Pence said, announcing sanctions.",
+          "copyright": "Juan Barreto/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-sanctions/05dc-sanctions-articleInline.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fisherman casts his net as an oil tanker sails in Venezuela. \u201cVenezuela\u2019s oil belongs to the Venezuelan people,\u201d Vice President Mike Pence said, announcing sanctions.",
+          "copyright": "Juan Barreto/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-sanctions/05dc-sanctions-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fisherman casts his net as an oil tanker sails in Venezuela. \u201cVenezuela\u2019s oil belongs to the Venezuelan people,\u201d Vice President Mike Pence said, announcing sanctions.",
+          "copyright": "Juan Barreto/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-sanctions/05dc-sanctions-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1271,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A fisherman casts his net as an oil tanker sails in Venezuela. \u201cVenezuela\u2019s oil belongs to the Venezuelan people,\u201d Vice President Mike Pence said, announcing sanctions.",
+          "copyright": "Juan Barreto/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G3AiHh"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Barr Orders Investigations of Discrimination at F.B.I. and Bureau of Prisons",
+      "abstract": "The attorney general sought to allay concerns among members of a Justice Department group that advocates on behalf of gay, lesbian and transgender employees.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/barr-justice-department-gay-lesbian-transgender-employees.html",
+      "byline": "By KATIE BENNER",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T21:34:18-04:00",
+      "created_date": "2019-04-05T19:28:16-04:00",
+      "published_date": "2019-04-05T19:28:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Discrimination",
+        "Homosexuality and Bisexuality",
+        "Workplace Hazards and Violations",
+        "Transgender and Transsexuals",
+        "Civil Rights and Liberties",
+        "Attorneys General"
+      ],
+      "org_facet": ["Federal Bureau of Investigation", "Justice Department"],
+      "per_facet": ["Barr, William P"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-barr/05dc-barr-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Department employment decisions \u201cmust be made solely on merit and free from discrimination,\u201d Attorney General William P. Barr wrote in a letter in which he vowed to fight discrimination of gay, lesbian or transgender employees at the department.",
+          "copyright": "Yuri Gripas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-barr/05dc-barr-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Department employment decisions \u201cmust be made solely on merit and free from discrimination,\u201d Attorney General William P. Barr wrote in a letter in which he vowed to fight discrimination of gay, lesbian or transgender employees at the department.",
+          "copyright": "Yuri Gripas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-barr/merlin_153106437_1c1fd44b-d275-4d35-9cca-35473c35710f-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Department employment decisions \u201cmust be made solely on merit and free from discrimination,\u201d Attorney General William P. Barr wrote in a letter in which he vowed to fight discrimination of gay, lesbian or transgender employees at the department.",
+          "copyright": "Yuri Gripas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-barr/merlin_153106437_1c1fd44b-d275-4d35-9cca-35473c35710f-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Department employment decisions \u201cmust be made solely on merit and free from discrimination,\u201d Attorney General William P. Barr wrote in a letter in which he vowed to fight discrimination of gay, lesbian or transgender employees at the department.",
+          "copyright": "Yuri Gripas/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-barr/merlin_153106437_1c1fd44b-d275-4d35-9cca-35473c35710f-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Justice Department employment decisions \u201cmust be made solely on merit and free from discrimination,\u201d Attorney General William P. Barr wrote in a letter in which he vowed to fight discrimination of gay, lesbian or transgender employees at the department.",
+          "copyright": "Yuri Gripas/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G3FzhK"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Education Department Has Stalled on Debt Relief for Defrauded Students",
+      "abstract": "The Education Department failed to approve a single application for student loan relief in the second half of last year, according to new data, defying court orders.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/betsy-devos-student-loan-debt-relief.html",
+      "byline": "By ERICA L. GREEN",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T21:03:41-04:00",
+      "created_date": "2019-04-05T18:24:41-04:00",
+      "published_date": "2019-04-05T18:24:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "For-Profit Schools",
+        "Colleges and Universities",
+        "United States Politics and Government",
+        "Credit and Debt",
+        "Student Loans"
+      ],
+      "org_facet": ["Corinthian Colleges Inc"],
+      "per_facet": ["DeVos, Elizabeth (1958- )", "Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-borrowers/05dc-borrowers-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betsy DeVos, the education secretary, has attempted to narrow a rule that would have expanded and expedited a system for erasing federal loan debts for students who attended colleges that misled them with false claims and inflated data.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-borrowers/05dc-borrowers-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betsy DeVos, the education secretary, has attempted to narrow a rule that would have expanded and expedited a system for erasing federal loan debts for students who attended colleges that misled them with false claims and inflated data.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-borrowers/merlin_152644605_c7283e65-0409-471c-b587-7f62447a94ed-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betsy DeVos, the education secretary, has attempted to narrow a rule that would have expanded and expedited a system for erasing federal loan debts for students who attended colleges that misled them with false claims and inflated data.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-borrowers/05dc-borrowers-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betsy DeVos, the education secretary, has attempted to narrow a rule that would have expanded and expedited a system for erasing federal loan debts for students who attended colleges that misled them with false claims and inflated data.",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-borrowers/merlin_152644605_c7283e65-0409-471c-b587-7f62447a94ed-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1427,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betsy DeVos, the education secretary, has attempted to narrow a rule that would have expanded and expedited a system for erasing federal loan debts for students who attended colleges that misled them with false claims and inflated data.",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FZcUt0"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "In New York, 2020 Democrats Offer a Range of Views on Racial Justice",
+      "abstract": "The candidates addressed the annual conference of the Rev. Al Sharpton\u2019s National Action Network, an essential event for Democrats seeking higher office.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/democrats-race-2020.html",
+      "byline": "By ASTEAD W. HERNDON",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T18:43:37-04:00",
+      "created_date": "2019-04-05T16:29:59-04:00",
+      "published_date": "2019-04-05T16:29:59-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Politics and Government",
+        "Race and Ethnicity"
+      ],
+      "org_facet": ["Democratic Party", "National Action Network"],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Ocasio-Cortez, Alexandria",
+        "Hickenlooper, John W",
+        "Booker, Cory A",
+        "Sanders, Bernard",
+        "Warren, Elizabeth",
+        "Sharpton, Al"
+      ],
+      "geo_facet": ["Times Square and 42nd Street (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05demsrace1/05demsrace1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kamala Harris, Democrat of California, said she would double the size of the Justice Department\u2019s Civil Rights Division and focus on white nationalist domestic terrorism if she is elected president.",
+          "copyright": "Gabriella Angotti-Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05demsrace1/05demsrace1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kamala Harris, Democrat of California, said she would double the size of the Justice Department\u2019s Civil Rights Division and focus on white nationalist domestic terrorism if she is elected president.",
+          "copyright": "Gabriella Angotti-Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05demsrace1/05demsrace1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kamala Harris, Democrat of California, said she would double the size of the Justice Department\u2019s Civil Rights Division and focus on white nationalist domestic terrorism if she is elected president.",
+          "copyright": "Gabriella Angotti-Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05demsrace1/05demsrace1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kamala Harris, Democrat of California, said she would double the size of the Justice Department\u2019s Civil Rights Division and focus on white nationalist domestic terrorism if she is elected president.",
+          "copyright": "Gabriella Angotti-Jones for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05demsrace1/05demsrace1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Kamala Harris, Democrat of California, said she would double the size of the Justice Department\u2019s Civil Rights Division and focus on white nationalist domestic terrorism if she is elected president.",
+          "copyright": "Gabriella Angotti-Jones for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YTZuan"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "U.S. Acknowledges Airstrike in Somalia Caused Civilian Deaths",
+      "abstract": "The announcement comes after Gen. Thomas D. Waldhauser, the head of Africa Command, ordered a review of all airstrikes conducted in Somalia since 2017.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/us-civilians-somalia-airstrikes.html",
+      "byline": "By THOMAS GIBBONS-NEFF",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T14:24:53-04:00",
+      "created_date": "2019-04-05T13:56:50-04:00",
+      "published_date": "2019-04-05T13:56:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Civilian Casualties",
+        "United States Politics and Government",
+        "United States Defense and Military Forces"
+      ],
+      "org_facet": [
+        "Shabab",
+        "Defense Department",
+        "United States Africa Command"
+      ],
+      "per_facet": ["Waldhauser, Thomas D"],
+      "geo_facet": ["Somalia"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-military/05dc-military-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gen. Thomas D. Waldhauser, the head of Africa Command, has ordered a review of all airstrikes conducted in Somalia since 2017.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-military/05dc-military-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gen. Thomas D. Waldhauser, the head of Africa Command, has ordered a review of all airstrikes conducted in Somalia since 2017.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-military/05dc-military-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gen. Thomas D. Waldhauser, the head of Africa Command, has ordered a review of all airstrikes conducted in Somalia since 2017.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-military/05dc-military-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gen. Thomas D. Waldhauser, the head of Africa Command, has ordered a review of all airstrikes conducted in Somalia since 2017.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-military/05dc-military-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gen. Thomas D. Waldhauser, the head of Africa Command, has ordered a review of all airstrikes conducted in Somalia since 2017.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2DaFDuD"
+    },
+    {
+      "section": "Magazine",
+      "subsection": "",
+      "title": "Bad Food, Broken-Down Trucks: What It\u2019s Like to Be a U.S. Soldier on the Mexico Border",
+      "abstract": "This unit returned from Afghanistan in November. But an internal report to headquarters reveals that its new living conditions aren\u2019t much better.",
+      "url": "https://www.nytimes.com/2019/04/05/magazine/mexico-border-troops-wall.html",
+      "byline": "By THOMAS GIBBONS-NEFF",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T13:07:04-04:00",
+      "created_date": "2019-04-05T13:06:45-04:00",
+      "published_date": "2019-04-05T13:06:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Defense and Military Forces",
+        "Defense and Military Forces",
+        "Rationing and Allocation of Resources"
+      ],
+      "org_facet": [
+        "Customs and Border Protection (US)",
+        "Homeland Security Department",
+        "Defense Department"
+      ],
+      "per_facet": [],
+      "geo_facet": ["United States", "Mexico"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/magazine/05atwar-border/merlin_146577276_aced8e35-0aab-492a-bf97-3b1612bcd182-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For soldiers who have been deployed to the southwestern border, the assignment is much like an overseas operation: long, tedious and marked by logistical issues.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/magazine/05atwar-border/merlin_146577276_aced8e35-0aab-492a-bf97-3b1612bcd182-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For soldiers who have been deployed to the southwestern border, the assignment is much like an overseas operation: long, tedious and marked by logistical issues.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/magazine/05atwar-border/merlin_146577276_aced8e35-0aab-492a-bf97-3b1612bcd182-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For soldiers who have been deployed to the southwestern border, the assignment is much like an overseas operation: long, tedious and marked by logistical issues.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/magazine/05atwar-border/merlin_146577276_aced8e35-0aab-492a-bf97-3b1612bcd182-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For soldiers who have been deployed to the southwestern border, the assignment is much like an overseas operation: long, tedious and marked by logistical issues.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/magazine/05atwar-border/merlin_146577276_aced8e35-0aab-492a-bf97-3b1612bcd182-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "For soldiers who have been deployed to the southwestern border, the assignment is much like an overseas operation: long, tedious and marked by logistical issues.",
+          "copyright": "Tamir Kalifa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2TYUAoT"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Seeking \u2018Tougher\u2019 Direction for ICE, Trump Withdraws His Nominee",
+      "abstract": "The president pulled his choice to run the immigration enforcement agency just hours before he left for a California border town to address what he considers to be a crisis at the border.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/ronald-vitiello-ice.html",
+      "byline": "By EILEEN SULLIVAN, ZOLAN KANNO-YOUNGS and MAGGIE HABERMAN",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T18:42:22-04:00",
+      "created_date": "2019-04-05T12:22:12-04:00",
+      "published_date": "2019-04-05T12:22:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Appointments and Executive Changes",
+        "Immigration and Emigration",
+        "Illegal Immigration",
+        "Deportation"
+      ],
+      "org_facet": ["Immigration and Customs Enforcement (US)"],
+      "per_facet": ["Vitiello, Ronald D", "Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-ice/05dc-ice-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cRon\u2019s a good man, but we\u2019re going in a tougher direction,\u201d President Trump said of Ronald D. Vitiello, the acting director of ICE.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-ice/05dc-ice-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cRon\u2019s a good man, but we\u2019re going in a tougher direction,\u201d President Trump said of Ronald D. Vitiello, the acting director of ICE.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-ice/merlin_150063201_cba79898-b055-459b-b1c2-9ff12a103b96-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cRon\u2019s a good man, but we\u2019re going in a tougher direction,\u201d President Trump said of Ronald D. Vitiello, the acting director of ICE.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-ice/merlin_150063201_cba79898-b055-459b-b1c2-9ff12a103b96-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cRon\u2019s a good man, but we\u2019re going in a tougher direction,\u201d President Trump said of Ronald D. Vitiello, the acting director of ICE.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-ice/merlin_150063201_cba79898-b055-459b-b1c2-9ff12a103b96-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cRon\u2019s a good man, but we\u2019re going in a tougher direction,\u201d President Trump said of Ronald D. Vitiello, the acting director of ICE.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VqxyZA"
+    },
+    {
+      "section": "Business",
+      "subsection": "Economy",
+      "title": "Trump Says Fed Should Cut Rates and Lift Economy",
+      "abstract": "President Trump said on Friday that he wanted another round of quantitative easing from the central bank.",
+      "url": "https://www.nytimes.com/2019/04/05/business/economy/trump-fed-interest-rates.html",
+      "byline": "By JIM TANKERSLEY",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T18:56:02-04:00",
+      "created_date": "2019-04-05T11:30:14-04:00",
+      "published_date": "2019-04-05T11:30:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Quantitative Easing",
+        "Interest Rates",
+        "Banking and Financial Institutions",
+        "United States Economy",
+        "Credit and Debt",
+        "Appointments and Executive Changes",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Federal Reserve System"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-fed-promo2/05dc-fed-promo2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s remarks came on the same day the Labor Department reported strong job growth.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-fed-promo2/05dc-fed-promo2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s remarks came on the same day the Labor Department reported strong job growth.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-fed-promo2/05dc-fed-promo2-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s remarks came on the same day the Labor Department reported strong job growth.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-fed-promo2/05dc-fed-promo2-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s remarks came on the same day the Labor Department reported strong job growth.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/politics/05dc-fed-promo2/05dc-fed-promo2-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1372,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s remarks came on the same day the Labor Department reported strong job growth.",
+          "copyright": "Sarah Silbiger/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2CZ2wB3"
+    },
+    {
+      "section": "Business",
+      "subsection": "Economy",
+      "title": "Modern Monetary Theory Finds an Embrace in an Unexpected Place: Wall Street",
+      "abstract": "M.M.T.\u2019s fans include Alexandria Ocasio-Cortez, Bernie Sanders \u2014 and financial analysts at Goldman Sachs, Nomura and GMO.",
+      "url": "https://www.nytimes.com/2019/04/05/business/economy/mmt-wall-street.html",
+      "byline": "By PATRICIA COHEN",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T11:10:26-04:00",
+      "created_date": "2019-04-05T11:10:26-04:00",
+      "published_date": "2019-04-05T11:10:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Federal Budget (US)",
+        "Interest Rates",
+        "Inflation (Economics)",
+        "Banking and Financial Institutions",
+        "National Debt (US)",
+        "Credit and Debt",
+        "United States Politics and Government",
+        "Labor and Jobs",
+        "Economics (Theory and Philosophy)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Kelton, Stephanie"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/business/05MMT1/05MMT1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Money managers, chief executives and business analysts maintain that modern monetary theory offers important insights. Far from finding it fanciful or deranged, they are using M.M.T. to build economic forecasts and even trading strategies.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/business/05MMT1/05MMT1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Money managers, chief executives and business analysts maintain that modern monetary theory offers important insights. Far from finding it fanciful or deranged, they are using M.M.T. to build economic forecasts and even trading strategies.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/business/05MMT1/merlin_147134316_9ffa73fc-5b2b-4088-89e8-1354feaf3994-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Money managers, chief executives and business analysts maintain that modern monetary theory offers important insights. Far from finding it fanciful or deranged, they are using M.M.T. to build economic forecasts and even trading strategies.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/business/05MMT1/merlin_147134316_9ffa73fc-5b2b-4088-89e8-1354feaf3994-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Money managers, chief executives and business analysts maintain that modern monetary theory offers important insights. Far from finding it fanciful or deranged, they are using M.M.T. to build economic forecasts and even trading strategies.",
+          "copyright": "Hilary Swift for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/business/05MMT1/merlin_147134316_9ffa73fc-5b2b-4088-89e8-1354feaf3994-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Money managers, chief executives and business analysts maintain that modern monetary theory offers important insights. Far from finding it fanciful or deranged, they are using M.M.T. to build economic forecasts and even trading strategies.",
+          "copyright": "Hilary Swift for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2VnR7Ss"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title": "Critics to Joe Biden: You\u2019re Missing the Point",
+      "abstract": "Joe Biden says he will be \u201cmore mindful\u201d of personal space because of changing \u201csocial norms.\u201d But some of his accusers say it\u2019s not norms that have changed, it\u2019s the conversation.",
+      "url": "https://www.nytimes.com/2019/04/05/us/joe-biden-women-video.html",
+      "byline": "By MAYA SALAM",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T11:47:11-04:00",
+      "created_date": "2019-04-05T11:01:21-04:00",
+      "published_date": "2019-04-05T11:01:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Women and Girls",
+        "Sexual Harassment",
+        "#MeToo Movement",
+        "Women's Rights",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Workplace Environment"
+      ],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr", "Flores, Lucy (1979- )"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05ihw-biden-illustration/05ihw-biden-illustration-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Jason Fujikuni; twitter.com/JoeBiden"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05ihw-biden-illustration/05ihw-biden-illustration-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Jason Fujikuni; twitter.com/JoeBiden"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05ihw-biden-illustration/05ihw-biden-illustration-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Jason Fujikuni; twitter.com/JoeBiden"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05ihw-biden-illustration/05ihw-biden-illustration-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Jason Fujikuni; twitter.com/JoeBiden"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05ihw-biden-illustration/05ihw-biden-illustration-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Jason Fujikuni; twitter.com/JoeBiden"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YUvviS"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Trump Presses His Argument of a Border Crisis in California Visit",
+      "abstract": "The president hailed what he said was the \u201ctremendous impact\u201d of the wall in Calexico, but in fact the part he visited was an upgrade to an existing section of fencing, not the kind of new construction he has called for.",
+      "url": "https://www.nytimes.com/2019/04/05/us/politics/trump-border-wall.html",
+      "byline": "By MICHAEL D. SHEAR",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T19:25:55-04:00",
+      "created_date": "2019-04-05T10:55:24-04:00",
+      "published_date": "2019-04-05T10:55:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Border Barriers",
+        "Immigration and Emigration",
+        "Illegal Immigration"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": ["Calexico (Calif)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-trump-sub4/05dc-trump-sub4-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the eve of his trip to the border, President Trump backed down from his threat to close the border with Mexico in the face of hard criticism from the business community and top officials in his own party.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-trump-sub4/05dc-trump-sub4-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the eve of his trip to the border, President Trump backed down from his threat to close the border with Mexico in the face of hard criticism from the business community and top officials in his own party.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-trump-sub4/05dc-trump-sub4-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the eve of his trip to the border, President Trump backed down from his threat to close the border with Mexico in the face of hard criticism from the business community and top officials in his own party.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-trump-sub4/05dc-trump-sub4-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the eve of his trip to the border, President Trump backed down from his threat to close the border with Mexico in the face of hard criticism from the business community and top officials in his own party.",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/05/us/05dc-trump-sub4/05dc-trump-sub4-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On the eve of his trip to the border, President Trump backed down from his threat to close the border with Mexico in the face of hard criticism from the business community and top officials in his own party.",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2YKsscK"
+    },
+    {
+      "section": "The Upshot",
+      "subsection": "",
+      "title": "Trump Is Being Vague About What He Wants to Replace Obamacare. But There Are Clues.",
+      "abstract": "The three leading G.O.P. health care proposals all involve block grants. Those plans are hard to square with the president\u2019s promises to lower premiums and deductibles.",
+      "url": "https://www.nytimes.com/2019/04/05/upshot/trump-replacing-obamacare-insurance.html",
+      "byline": "By MARGOT SANGER-KATZ",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T11:48:16-04:00",
+      "created_date": "2019-04-05T05:00:14-04:00",
+      "published_date": "2019-04-05T05:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Health Insurance and Managed Care",
+        "Patient Protection and Affordable Care Act (2010)",
+        "States (US)",
+        "Budgets and Budgeting",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/04/upshot/up-gopplans/up-gopplans-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke at the National Republican Congressional Committee dinner in Washington on Tuesday, mentioning health care as one of the topics he wanted the party to focus on.",
+          "copyright": "Pool photo by Ron Sachs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/04/upshot/up-gopplans/up-gopplans-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke at the National Republican Congressional Committee dinner in Washington on Tuesday, mentioning health care as one of the topics he wanted the party to focus on.",
+          "copyright": "Pool photo by Ron Sachs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/04/upshot/up-gopplans/merlin_152988810_35746079-82eb-481c-a1c7-695d58b7ddee-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke at the National Republican Congressional Committee dinner in Washington on Tuesday, mentioning health care as one of the topics he wanted the party to focus on.",
+          "copyright": "Pool photo by Ron Sachs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/04/upshot/up-gopplans/up-gopplans-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke at the National Republican Congressional Committee dinner in Washington on Tuesday, mentioning health care as one of the topics he wanted the party to focus on.",
+          "copyright": "Pool photo by Ron Sachs"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/04/upshot/up-gopplans/merlin_152988810_35746079-82eb-481c-a1c7-695d58b7ddee-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1529,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump spoke at the National Republican Congressional Committee dinner in Washington on Tuesday, mentioning health care as one of the topics he wanted the party to focus on.",
+          "copyright": "Pool photo by Ron Sachs"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Vo2aeh"
+    },
+    {
+      "section": "New York",
+      "subsection": "",
+      "title": "Is Bill de Blasio Running for President in 2020? Sure Looks Like It",
+      "abstract": "The mayor of New York is doing all the things politicians do before announcing a presidential run, including courting big and small donors.",
+      "url": "https://www.nytimes.com/2019/04/05/nyregion/bill-de-blasio-2020.html",
+      "byline": "By WILLIAM NEUMAN, J. DAVID GOODMAN and JEFFERY C. MAYS",
+      "item_type": "Article",
+      "updated_date": "2019-04-05T17:16:08-04:00",
+      "created_date": "2019-04-05T05:00:12-04:00",
+      "published_date": "2019-04-05T05:00:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Presidential Election of 2020", "Politics and Government"],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["de Blasio, Bill"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/04/06/nyregion/06mayorprez-print/05mayorprez1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio spoke to the National Action Network&rsquo;s convention in New York earlier this month.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/06/nyregion/06mayorprez-print/05mayorprez1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio spoke to the National Action Network&rsquo;s convention in New York earlier this month.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/06/nyregion/06mayorprez-print/merlin_153021621_2bee9e38-5c2d-4f9d-9976-a2d10b494cdc-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio spoke to the National Action Network&rsquo;s convention in New York earlier this month.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/06/nyregion/06mayorprez-print/merlin_153021621_2bee9e38-5c2d-4f9d-9976-a2d10b494cdc-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio spoke to the National Action Network&rsquo;s convention in New York earlier this month.",
+          "copyright": "Shannon Stapleton/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/04/06/nyregion/06mayorprez-print/merlin_153021621_2bee9e38-5c2d-4f9d-9976-a2d10b494cdc-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mayor Bill de Blasio spoke to the National Action Network&rsquo;s convention in New York earlier this month.",
+          "copyright": "Shannon Stapleton/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2IeczFy"
+    }
+  ]
+}

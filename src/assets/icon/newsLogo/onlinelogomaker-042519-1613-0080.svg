@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="182.39999389648438" height="102.72199999999995" xml:space="preserve">
+<desc>Created with Fabric.js 1.6.0-rc.1</desc>
+<defs></defs>
+<g style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(10 10) scale(1.78 1.78)" >
+  <polygon points="164.15,88.49 160.15,83.93 160.15,115.83 168.15,115.83 168.15,83.93 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #070d02; fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 -133.855 -78.704) "/>
+  <polygon points="140.15,115.83 148.15,115.83 148.15,94.19 140.15,83.93 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #0a0302; fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 -133.855 -78.704) "/>
+  <polygon points="144.16,86.82 147.64,84.08 133.85,78.7 136.1,93.33 139.58,90.48 159.94,115.83 167.9,115.83 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #e80009; fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 -133.855 -78.704) "/>
+</g>
+  <g transform="translate(124.7 67.01)">
+   <text font-family="Merkin" font-size="40" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #ff0f0f; fill-rule: nonzero; opacity: 1;" ><tspan x="-48.2" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #ff0f0f; fill-rule: ; opacity: 1;">E</tspan><tspan x="-18.92" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #ff0f0f; fill-rule: ; opacity: 1;">W</tspan><tspan x="19.44" y="8.98" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #ff0f0f; fill-rule: ; opacity: 1;">S</tspan></text>
+ </g>
+</svg>
